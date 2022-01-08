@@ -1,0 +1,1 @@
+make extensions-build make extensions-install DESTDIR=/home/tony/workspace/python/grad/metabolic-simulation/res/mp-extensions
